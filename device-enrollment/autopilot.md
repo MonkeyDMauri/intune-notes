@@ -68,6 +68,16 @@ In intune admin center:
 
 Devices > devices onboarding > enrollment > Enrollment Status Page
 
+5. Reset/Wipe Windows machine
+
+- Reset machine from settings:
+
+system > recovery > reset device
+
+6. Log in to machine using cloud admin credentials
+
+This should automate the process of enrolling the device as Entra Join
+
 
 
 
