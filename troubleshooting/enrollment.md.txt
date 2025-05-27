@@ -1,0 +1,10 @@
+## Troubleshooting enrollment issues.
+
+
+1. Licenses.
+
+2. MDM Scope in microsoft intun.
+
+3. Device platform restriction.
+
+4. Limit restriction.
