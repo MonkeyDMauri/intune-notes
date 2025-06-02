@@ -1,0 +1,10 @@
+# This guide describes the steps to enroll an android device to intune.
+
+## Requirements
+
+- Managed google play account.
+
+
+## 1. Create a managed google play account(if this is not setup yet).
+
+# a. Open intune admin center, go to devices > android > enrollment > managed google play, then click the I agree checkbox ans click the blue button, afterwars just follow Microsoft sign in steps.
