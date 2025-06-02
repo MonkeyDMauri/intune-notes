@@ -14,3 +14,5 @@ wget https://aka.ms/intunexml -outfile Intune.xml
 wget https://aka.ms/intuneps1 -outfile IntuneODCStandAlone.ps1
 
 PowerShell -ExecutionPolicy Bypass -File .\IntuneODCStandAlone.ps1
+
+- We give it about 10min to collect necessary info and then create a compressed file to **c:\IntuneODCLogs**
