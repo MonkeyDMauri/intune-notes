@@ -1,0 +1,16 @@
+# These are the steps to collect ODC(OneData Collector) Logs in a windows device.
+
+These help troubleshoot issues with BitLocket, Update Rings among others.
+
+# 1. Run PowerShell as admin and run these commands one by one:
+
+```terminal`
+md c:\IntuneODCLogs
+
+Set-Location c:\IntuneODCLogs
+
+wget https://aka.ms/intunexml -outfile Intune.xml
+
+wget https://aka.ms/intuneps1 -outfile IntuneODCStandAlone.ps1
+
+PowerShell -ExecutionPolicy Bypass -File .\IntuneODCStandAlone.ps1
