@@ -3,6 +3,8 @@
 ## Requirements
 
 - Managed google play account.
+- Device must be cerfified by google with **android for enterprise devices**.
+- Android version must be supported by Intune.
 
 
 ## 1. Create a managed google play account(if this is not setup yet).
