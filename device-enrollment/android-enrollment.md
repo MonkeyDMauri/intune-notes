@@ -9,7 +9,7 @@
 
 ## 1. Create a managed google play account(if this is not setup yet).
 
-# a. Open intune admin center, go to devices > android > enrollment > managed google play, then click the I agree checkbox ans click the **Lunch google connect now** blue button, afterwars just follow Microsoft sign in steps.
+a. Open intune admin center, go to devices > android > enrollment > managed google play, then click the I agree checkbox ans click the **Lunch google connect now** blue button, afterwars just follow Microsoft sign in steps.
 
 ## 2. Download Company Portal App.
 
