@@ -39,7 +39,7 @@ Get-WindowsAutopilotInfo.ps1 script saves the hardware hash locally on the devic
 
 In intune admin center:
 
-Devices > devices onboarding > enrollment > devices
+Devices > devices onboarding > enrollment > Windows Autopilot > Devices
 
 - Click **Import** button and select .csv file containing device hardware issue which should be **AutopilotHWID.csv**
 
