@@ -2,7 +2,7 @@
 
 These help troubleshoot issues with BitLocket, Update Rings among others.
 
-# 1. Run PowerShell as admin and run these commands one by one:
+# 1. Run PowerShell as the standard user and run these commands one by one:
 
 ```terminal`
 md c:\IntuneODCLogs
